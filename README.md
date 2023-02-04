@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I’m Umayanga Kavindi. <br>I am following a BICT degree in University of Ruhuna in Sri Lanka. <br><br>🌱 I’m currently learning .net, React, Angular, Python<br>📫 How to reach me jananimeshi@gmail.com
+Hi 👋, I’m Janani Nimeshika. <br>I am following a BICT degree in University of Ruhuna in Sri Lanka. <br><br>🌱 I’m currently learning .net, React, Angular, Python<br>📫 How to reach me jananimeshi@gmail.com
 
 
 ## 🌐 Socials:
